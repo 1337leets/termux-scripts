@@ -1,0 +1,11 @@
+# Always
+.DS_Store
+Thumbs.db
+desktop.ini
+*.tmp
+*.bak
+~$*
+*.log
+*.iso
+*.img
+*.qcow2
